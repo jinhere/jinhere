@@ -31,7 +31,7 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's
 <h3>🤔 I’m looking for help with ...</h3><br>
 <h3>💬 Ask me about ...</h3><br>
 <h3>📫 How to reach me: ...</h3><br>
-<h3>🌱 I’d like to make ...</h3><br>
+
 
 
 <br>
