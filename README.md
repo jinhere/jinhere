@@ -5,9 +5,13 @@
 -->
 
 <h2>INTRODUCTION OF MYSELF</h2>
+
+<li>Major</li>
 I major software convergence in university.<br> 
+<li>creative</li>
 I like coming up with new ideas of applications. I want to be an inventor, problem solver. And software is my tool for it.<br>
-I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's so large) always terrifies me, but I'm ready to learn them...
+<li>all-time-student</li>
+I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's so large) always terrifies me, but I'm ready for the deep dive...
 <br>
 <hr>
 
