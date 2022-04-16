@@ -16,7 +16,7 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's
 <li>Flask(Web application server)</li>
 <li>C++</li>
 <li>HTML,Bootstrap(nothing but ctrl+c,v😅)</li>
-<li>More...</li>
+<li>To be added...</li>
 <br>
 
 <h3> 🔭 I’m currently working on ...</h3>
