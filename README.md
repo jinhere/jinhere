@@ -9,8 +9,15 @@ I major software convergence in university.<br>
 I like coming up with new ideas of applications. I want to be an inventor, problem solver. And software is my tool for it.<br>
 I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's so large) always terrifies me, but I'm ready to learn them...
 <br>
-
 <hr>
+
+<h3>⚡ My tools are: ...</h3>
+<li>Python</li>
+<li>Flask(Web application server)</li>
+<li>C++</li>
+<li>HTML,Bootstrap(nothing but ctrl+c,v😅)</li>
+<br>
+
 <h3> 🔭 I’m currently working on ...</h3>
 <li>LOST AND FOUND web application using Flask</li>
 <br>
@@ -28,5 +35,5 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's
 
 <br>
 
-<h3>⚡ Fun fact: ...</h3>
+
 
