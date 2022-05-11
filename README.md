@@ -23,8 +23,11 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's
 <li>To be added...</li>
 <br>
 
-<h3> 🔭 I’m currently working on ...</h3>
-<li>LOST AND FOUND web application using Flask</li>
+<h3> 🔭 I’m currently studying ...</h3>
+<li>Machine Learning</li>
+<li>C++</li>
+<li>API</li>
+
 <br>
 
 <h3>🌱 I’d like to make ...</h3>
