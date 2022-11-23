@@ -24,8 +24,8 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's
 <br>
 
 <h3> 🔭 I’m currently studying ...</h3>
-<li>Go (2022 second half)</li>
-<li>Machine Learning</li>
+<li>Go (second half of 2022)</li>
+<li>Machine Learning(first half of 2022)</li>
 <li>API</li>
 
 <br>
