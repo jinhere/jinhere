@@ -11,7 +11,7 @@ I major software convergence in university.<br>
 <li>creative</li>
 I like coming up with new ideas of applications. I want to be an inventor, problem solver. And software is my tool for it.<br>
 <li>all-time-student</li>
-I'm a constant learner. The fact that IT fields are like deep deep ocean(bc it's so large) always terrifies me, but I'm ready for the deep dive...
+I'm a constant learner. The fact that IT fields are like deep deep ocean always terrifies me, but I dive.
 <br>
 <hr>
 
