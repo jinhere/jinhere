@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm 김유진</h1>
+<h1> ¡Hola a todos! I'm Ellie(김유진) </h1>
 <br>
 <!--
 **jinhere/jinhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
