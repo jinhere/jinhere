@@ -28,18 +28,17 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean always 
 <li>Go (second half of 2022)</li>
 <li>Machine Learning(first half of 2022)</li>
 <li>API</li>
-
+<!--
 <br>
-
 <h3>🌱 I’d like to make ...</h3>
 <li> mobile app </li>
 <br>
 
 <h3>👯 I’m looking to collaborate on ...</h3><br>
 <h3>🤔 I’m looking for help with ...</h3><br>
-<h3>💬 Ask me about ...</h3><br>
+ <h3>💬 Ask me about ...</h3><br>
 <h3>📫 How to reach me: ...</h3><br>
-
+ -->
 
 
 <br>
