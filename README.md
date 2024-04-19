@@ -14,6 +14,7 @@ I like coming up with new ideas of applications. I want to be an inventor, probl
 I'm a constant learner. The fact that IT fields are like deep deep ocean always terrifies me, but I dive.
 <br>
 <hr>
+<img width="562" alt="image" src="https://github.com/jinhere/jinhere/assets/74696590/7fd0ccdd-290c-4ef9-ba6c-e5d79b015346">
 
 <h3>⚡ My tools are: ...</h3>
 <li>Python</li>
