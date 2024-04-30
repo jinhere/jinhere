@@ -15,7 +15,7 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean always 
 <br>
 <hr>
 <img width="562" alt="image" src="https://github.com/jinhere/jinhere/assets/74696590/7fd0ccdd-290c-4ef9-ba6c-e5d79b015346">
-
+<!--
 <h3>⚡ My tools are: ...</h3>
 <li>Python</li>
 <li>C++</li>
@@ -28,7 +28,7 @@ I'm a constant learner. The fact that IT fields are like deep deep ocean always 
 <li>Go (second half of 2022)</li>
 <li>Machine Learning(first half of 2022)</li>
 <li>API</li>
-<!--
+
 <br>
 <h3>🌱 I’d like to make ...</h3>
 <li> mobile app </li>
