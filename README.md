@@ -8,6 +8,8 @@
 
 <li>Major</li>
 I major software convergence in university.<br> 
+<li>Multilingual</li>
+I speak 3 different languages. Korean, English and Spanish
 <li>creative</li>
 I like coming up with new ideas of applications. I want to be an inventor, problem solver. And software is my tool for it.<br>
 <li>all-time-student</li>
